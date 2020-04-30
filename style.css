@@ -1,0 +1,29 @@
+body {
+  background-color: #f9f9f9;
+}
+
+.header {
+  margin-top: 25px;
+}
+
+.pull-right {
+  position: absolute;
+  right: 0;
+  margin-right: 80px;
+}
+
+.ml-80 {
+  margin-left: 80px;
+}
+
+.card-flat {
+  border: none;
+  width: 100%;
+}
+.bg-custom-light {
+  background-color: #e51631;
+}
+
+.mb-15 {
+  margin-top: -15px;
+}
